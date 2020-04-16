@@ -11,7 +11,7 @@ long_description = read('README.md') if os.path.isfile("README.md") else ""
 
 setup(
     name='celo-etl',
-    version='0.0.1',
+    version='0.0.2',
     author='Gonzalo Astorga',
     author_email='gonzalo@codabl.com',
     description='Tools for exporting Celo blockchain data to CSV or JSON',

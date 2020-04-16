@@ -1,11 +1,11 @@
 # Celo ETL
 
-[![Build Status](https://travis-ci.org/codabl/celo-etl.png)](https://travis-ci.org/codabl/celo-etl)
+[![Build Status](https://travis-ci.org/codabl/celo-etl.png)](https://travis-ci.org/github/codabl/celo-etl)
 [![Discord](https://img.shields.io/badge/discord-join%20chat-blue.svg)](https://discord.gg/6yWMkgM)
 
 Celo ETL lets you convert blockchain data into convenient formats like CSVs and relational databases.
 
-
+Celo ETL is a fork of 
 ## Quickstart
 
 Install Celo ETL:
